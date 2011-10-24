@@ -1,0 +1,16 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3786
+
+Add useful information to the statusline like:
+
+ - buffer number
+ - file type
+ - file encoding
+ - syntax errors (integration with Syntastic)
+ - indentation errors (mixed indentation, expand tab)
+ - trailing white spaces
+ - line number / total lines
+ - scroll position
+ - integration with Fugitive (git)
+ - etc...
+
+Project repository and screenshots: https://github.com/millermedeiros/vim-statline
